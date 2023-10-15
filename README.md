@@ -31,7 +31,7 @@ MAC users: https://phpandmysql.com/extras/installing-mamp/
 5. Create a database with name *lmsdb*.
 6. Import lmsdb.sql file (given inside the zip package in SQL file folder).
 7. Run the script http://localhost/lms (frontend).
-8. For adminstrators and staff, run the script http://localhost/lms/admin (admin panel).
+8. Run the script http://localhost/lms/admin for admin panel.
 
 #### Login Management
 
