@@ -33,19 +33,6 @@ MAC users: https://phpandmysql.com/extras/installing-mamp/
 7. Run the script http://localhost/lms (frontend).
 8. Run the script http://localhost/lms/admin for admin panel.
 
-#### Login Management
-
-**Credentials for Admin Panel:** <br />
-Username: admin <br />
-Password: Test@123 <br />
-
-**Credentials for User Panel:** <br />
-Username: amitk@test.com <br />
-Password: Test@123 <br />
-
-**Else:**
-Register as a new user
-
 ---
 
 ## How to import MySQL lmsdb to WampServer
