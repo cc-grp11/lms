@@ -3,8 +3,8 @@
 ---
 ## How to use local server environment for web development
 
-* Window users: https://www.wampserver.com/en/ <br />
-* MAC users: https://phpandmysql.com/extras/installing-mamp/
+Window users: https://www.wampserver.com/en/ <br />
+MAC users: https://phpandmysql.com/extras/installing-mamp/
 
 1. Download the respective package from their offical websites.
 2. Run the installer and follow the instructions to set up local server envirnoment. 
@@ -16,10 +16,10 @@
 ---
 #### Overview
 
-* Server-Side (PHP): Manages business logic and interacts with the database.
-* Database (MySQL): Stores information related to customers, laundry requests, price list, etc.
-* Frontend (React.js): Provides a user interface for interacting with the system.
-* Web Server (WAMP or MAMP): A local development environment that includes Apache, MySQL, and PHP.
+* Server-Side (**PHP**): Manages business logic and interacts with the database.
+* Database (**MySQL**): Stores information related to customers, laundry requests, price list, etc.
+* Frontend (**React.js**): Provides a user interface for interacting with the system.
+* Web Server (**WAMP or MAMP**): A local development environment that includes Apache, MySQL, and PHP.
 
 ---
 ## How to run the Laundry Management System Project
@@ -35,15 +35,15 @@
 
 ### Login Management
 
-* Credentials for Admin Panel: <br />
+**Credentials for Admin Panel:** <br />
 Username: admin <br />
 Password: Test@123 <br />
 
-* Credentials for User Panel: <br />
+**Credentials for User Panel:** <br />
 Username: amitk@test.com <br />
 Password: Test@123 <br />
 
-* Else: 
+**Else:**
 Register as a new user
 
 ---
