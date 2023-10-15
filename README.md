@@ -59,6 +59,10 @@ Register as a new user
 7. Make sure the header says Importing into the database “lmsdb”. After confirming, select Choose File.
 8. Select lmsdb.sql file.
 9. Scroll down and click on Import.
-10. On the left menu, you should see the list of following tables when expanding 
+10. On the left menu, you should see the list of following tables when expanding:
+* tbladmin
+* tbllaundryreq
+* tblpricelist
+* tbluser
 
 ---
