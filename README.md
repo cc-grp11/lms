@@ -33,7 +33,7 @@ MAC users: https://phpandmysql.com/extras/installing-mamp/
 7. Run the script http://localhost/lms (frontend).
 8. For admin panel http://localhost/lms/admin (admin panel).
 
-### Login Management
+#### Login Management
 
 **Credentials for Admin Panel:** <br />
 Username: admin <br />
