@@ -3,8 +3,8 @@
 ---
 ## How to use local server environment for web development
 
-* Window users: https://www.wampserver.com/en/  
-* MAC users: https://phpandmysql.com/extras/installing-mamp/  
+* Window users: https://www.wampserver.com/en/ <br />
+* MAC users: https://phpandmysql.com/extras/installing-mamp/
 
 1. Download the respective package from their offical websites.
 2. Run the installer and follow the instructions to set up local server envirnoment. 
@@ -35,13 +35,13 @@
 
 #### Login Management
 
-* Credential for Admin Panel  
-- Username: admin  
-- Password: Test@123  
+* Credential for Admin Panel <br />
+- Username: admin <br />
+- Password: Test@123 <br />
 
-* Credential for User Panel  
-- Username: amitk@test.com  
-- Password: Test@123  
+* Credential for User Panel <br />
+- Username: amitk@test.com <br />
+- Password: Test@123 <br />
 
 * Else: Register as a new user
 
