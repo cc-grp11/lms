@@ -35,15 +35,15 @@
 
 ### Login Management
 
-Credentials for Admin Panel:
+* Credentials for Admin Panel: <br />
 Username: admin <br />
 Password: Test@123 <br />
 
-Credentials for User Panel:
+* Credentials for User Panel: <br />
 Username: amitk@test.com <br />
 Password: Test@123 <br />
 
-Else: 
+* Else: 
 Register as a new user
 
 ---
