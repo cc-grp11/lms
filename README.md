@@ -60,9 +60,9 @@ Register as a new user
 8. Select lmsdb.sql file.
 9. Scroll down and click on Import.
 10. On the left menu, you should see the list of following tables when expanding:
-* tbladmin
-* tbllaundryreq
-* tblpricelist
-* tbluser
+    * tbladmin
+    * tbllaundryreq
+    * tblpricelist
+    * tbluser
 
 ---
