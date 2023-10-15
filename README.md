@@ -18,7 +18,6 @@ MAC users: https://phpandmysql.com/extras/installing-mamp/
 
 * Server-Side (**PHP**): Manages business logic and interacts with the database.
 * Database (**MySQL**): Stores information related to customers, laundry requests, price list, etc.
-* Frontend (**React.js**): Provides a user interface for interacting with the system.
 * Web Server (**WAMP or MAMP**): A local development environment that includes Apache, MySQL, and PHP.
 
 ---
