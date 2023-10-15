@@ -3,8 +3,8 @@
 ---
 ## How to use local server environment for web development
 
-Window users: https://www.wampserver.com/en/
-MAC users: https://phpandmysql.com/extras/installing-mamp/
+* Window users: https://www.wampserver.com/en/  
+* MAC users: https://phpandmysql.com/extras/installing-mamp/  
 
 1. Download the respective package from their offical websites.
 2. Run the installer and follow the instructions to set up local server envirnoment. 
@@ -24,26 +24,26 @@ MAC users: https://phpandmysql.com/extras/installing-mamp/
 ---
 ## How to run the Laundry Management System Project
 
-1. Download the zip file
-2. Extract the file and copy lms folder
-3. Paste inside root directory (e.g., for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-5. Create a database with name lmsdb
-6. Import lmsdb.sql file (given inside the zip package in sql file folder)
-7. Run the script http://localhost/lms (frontend)
-8. For admin panel http://localhost/lms/admin (admin panel)
+1. Download the zip file.
+2. Extract the file and copy lms folder.
+3. Paste inside root directory (e.g., for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html).
+4. Open PHPMyAdmin (http://localhost/phpmyadmin).
+5. Create a database with name lmsdb.
+6. Import lmsdb.sql file (given inside the zip package in sql file folder).
+7. Run the script http://localhost/lms (frontend).
+8. For admin panel http://localhost/lms/admin (admin panel).
 
 #### Login Management
 
-- Credential for Admin Panel:
-  Username: admin
-  Password: Test@123
+* Credential for Admin Panel  
+- Username: admin  
+- Password: Test@123  
 
-- Credential for User Panel:
-  Username: amitk@test.com
-  Password: Test@123
+* Credential for User Panel  
+- Username: amitk@test.com  
+- Password: Test@123  
 
-- Or register as a new user
+* Else: Register as a new user
 
 ---
 
