@@ -33,17 +33,18 @@
 7. Run the script http://localhost/lms (frontend).
 8. For admin panel http://localhost/lms/admin (admin panel).
 
-#### Login Management
+### Login Management
 
-* Credential for Admin Panel <br />
-- Username: admin <br />
-- Password: Test@123 <br />
+Credentials for Admin Panel:
+Username: admin <br />
+Password: Test@123 <br />
 
-* Credential for User Panel <br />
-- Username: amitk@test.com <br />
-- Password: Test@123 <br />
+Credentials for User Panel:
+Username: amitk@test.com <br />
+Password: Test@123 <br />
 
-* Else: Register as a new user
+Else: 
+Register as a new user
 
 ---
 
