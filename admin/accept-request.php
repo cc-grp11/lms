@@ -23,7 +23,7 @@ if (strlen($_SESSION['ldaid']==0)) {
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>LMS</title>
+  <title>Clean Conscience</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -61,7 +61,7 @@ if (strlen($_SESSION['ldaid']==0)) {
 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
  <thead>
                 <tr>
-                  <th>S.NO</th>
+                  <th>Ticket Number</th>
                   <th>Date of Laundry</th>
                   <th>Full Name</th>
               <th>Mobile Number</th>
@@ -82,7 +82,7 @@ while ($row=mysqli_fetch_array($ret)) {
                   <td><?php  echo $row['FullName'];?></td>
                   <td><?php  echo $row['MobileNumber'];?></td>
                 
-                  <td><a href="view-acceptrequest.php?editid=<?php echo $row['ID'];?>" target="blank" class="btn btn-primary">View Detail</a>
+                  <td><a href="view-acceptrequest.php?editid=<?php echo $row['ID'];?>" target="blank" class="btn btn-primary">View Details</a>
                 </tr>
                 <?php 
 $cnt=$cnt+1;

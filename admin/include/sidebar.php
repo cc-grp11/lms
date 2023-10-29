@@ -25,8 +25,8 @@
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
         <a class="dropdown-item" href="new-request.php">New Requests</a>
         <a class="dropdown-item" href="accept-request.php">Accept Requests</a>
-          <a class="dropdown-item" href="inprocess-request.php">Inprocess Requests</a>
-          <a class="dropdown-item" href="finish-request.php">Finish Requests</a>
+          <a class="dropdown-item" href="inprocess-request.php">In Process Requests</a>
+          <a class="dropdown-item" href="finish-request.php">Completed Requests</a>
           <a class="dropdown-item" href="all-requests.php">All Requests</a>
           
         </div>
@@ -48,7 +48,7 @@
           <span>Reports</span>
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-        <a class="dropdown-item" href="bwdates-report-ds.php">B/w Dates</a>
+        <a class="dropdown-item" href="bwdates-report-ds.php">B/W Dates</a>
           <a class="dropdown-item" href="requestcount-report-ds.php">Requests Count</a>
           
           

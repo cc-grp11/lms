@@ -5,7 +5,7 @@ include('user/include/dbconnection.php');
 <!DOCTYPE html>
 <html>
 <head>
-<title>Laundry Management System</title>
+<title>Clean Conscience</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
@@ -25,7 +25,7 @@ include('user/include/dbconnection.php');
 <div class="w3_bandwn">
 <div class="container">
 <div class="col-md-6 w3_l">
-<i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com">Laundry Management System</a>
+<i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com">Clean Conscience</a>
 </div>
 
 
@@ -42,7 +42,7 @@ include('user/include/dbconnection.php');
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-     <h1><a class="navbar-brand" href="#">LMS</a></h1>
+     <h1><a class="navbar-brand" href="#">Clean Conscience</a></h1>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -64,13 +64,13 @@ include('user/include/dbconnection.php');
   </div><!-- /.container-fluid -->
 </nav>
 <div class="w3l_bandwn">
- <h2>Welcome to Laundry</h2>
+ <h2>Welcome To Clean Conscience</h2>
  <div class="about-p text-center">
 <span class="sub-title"></span>
 <span class="fa fa-star" aria-hidden="true"></span>
 <span class="sub-title"></span>
 </div>
-<h3>Washing Clothes</h3>
+<h3>An Ecofriedly Approach to Laundry</h3>
 
  </div>
 </div>
@@ -80,7 +80,7 @@ include('user/include/dbconnection.php');
 		<div class="container">
 	<h3>About Us</h3>
 			<div class="tittle_head_w3layouts">
-				<h4>Powerful Features</h4>
+				<h4>Benefits to Choosing Laundromats</h4>
 				
 			</div>
 			<div class="inner_sec_info_agileits_w3">
@@ -88,7 +88,7 @@ include('user/include/dbconnection.php');
 				<div class="w3_banup">
 					<div class="col-md-4 w3_ret">
 					<div class="col-md-10 w3_txt">
-							<h4>Wash Cycle</h4>
+							<h4>Energy Efficent Washers</h4>
 							</div>
 							<div class="col-md-2 w3ls_ic">
 							<i class="fa fa-comment-o" aria-hidden="true"></i>
@@ -98,7 +98,7 @@ include('user/include/dbconnection.php');
 					
 					<div class="col-md-10 w3_txt">
 						
-							<h4>Tumble Drying</h4>
+							<h4>Recycle and Minimize Water Usage</h4>
 							</div>
 							<div class="col-md-2 w3ls_ic">
 							<i class="fa fa-microphone" aria-hidden="true"></i>
@@ -107,7 +107,7 @@ include('user/include/dbconnection.php');
 				
 					<div class="col-md-10 w3_txt">
 						
-							<h4>Customize Quickly</h4>
+							<h4>Wash In Bulk</h4>
 							</div>
 							<div class="col-md-2 w3ls_ic">
 								<i class="fa fa-cubes" aria-hidden="true"></i>
@@ -125,7 +125,7 @@ include('user/include/dbconnection.php');
 							<i class="fa fa-street-view" aria-hidden="true"></i>
 							</div>
 							<div class="col-md-10 w3_txt">
-							<h4>Sorting</h4>
+							<h4>Dry In Bulk</h4>
 						</div>
 						<div class="clearfix"></div>
 					
@@ -133,7 +133,7 @@ include('user/include/dbconnection.php');
 							<i class="fa fa-futbol-o" aria-hidden="true"></i>
 							</div>
 							<div class="col-md-10 w3_txt">
-							<h4>Mildew Effect</h4>
+							<h4>Choose Eco-Friendly Detergents</h4>
 						</div>
 						<div class="clearfix"></div>
 					
@@ -141,7 +141,7 @@ include('user/include/dbconnection.php');
 							<i class="fa fa-laptop" aria-hidden="true"></i>
 						</div>
 						<div class="col-md-10 w3_txt">
-							<h4>Crocking.</h4>
+							<h4>Reduce Carbon Footprint</h4>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -316,7 +316,7 @@ COLLAR CLEANING</p>
 	<div class="contact" id="contact">
 		<div class="container">
 			<div class="agile-contact-grids">
-			     <h3>Laundry Price(Per Unit)</h3>
+			     <h3>Laundry Price (Per Unit)</h3>
 				 	<div class="col-md-12 agile-contact-left">
 					<div class="agileits-map">
 					
@@ -372,7 +372,7 @@ while ($row=mysqli_fetch_array($ret)) {
 	<!-- //footer -->
 <div class="copyright">
 		<div class="container">
-			<p>Laundry Management System</p>
+			<p>Clean Conscience</p>
 		</div>
 	</div>
 
