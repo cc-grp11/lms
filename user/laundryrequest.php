@@ -36,7 +36,7 @@ if(isset($_POST['submit']))
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>LMS</title>
+  <title>Clean Conscience</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -113,14 +113,14 @@ function submitform()
             <div class="form-row">
               <div class="col-md-6">
                 <div class="form-label-group">
-                  <input type="date" id="date" name="date" class="form-control"  required="required" autofocus="autofocus">
-                  <label for="date">Pick up / Drop Date </label>
+                <input type="text" id="date" name="date" class="form-control" required="required" pattern="\d{2}-\d{2}-\d{4}" title="Enter a valid date in the format MM-DD-YYYY">
+                  <label for="date">Pick-Up / Drop Off Date (MM-DD-YYYY) </label>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="form-label-group">
                   <input type="text" id="topwear" name="topwear" class="form-control"  required="required" pattern="[0-9]+" title="only numbers">
-                  <label for="lastName">Topwear(Tshirt,Top,Shirt. Ex: 2)</label>
+                  <label for="lastName">Tops (Tshirt,Top,Shirt. Ex: 2)</label>
                 </div>
               </div>
             </div>
@@ -128,7 +128,7 @@ function submitform()
           <div class="form-group">
             <div class="form-label-group">
               <input type="text" id="bottomwear" name="bottomwear" class="form-control" required="required" pattern="[0-9]+" title="only numbers">
-              <label for="inputEmail">Bottomwear(Lower,Jeans,Leggins. Ex: 2)</label>
+              <label for="inputEmail">Bottom Wear (Lower,Jeans,Leggins. Ex: 2)</label>
             </div>
           </div>
           <div class="form-group">
@@ -200,14 +200,14 @@ function submitform()
               <div class="col-md-12">
                 <div class="form-label-group">
                   <input type="text" id="description" name="description" class="form-control">
-                  <label for="inputPassword">Description(if any)</label>
+                  <label for="inputPassword">Description (If Applicable)</label>
                 </div>
               </div>
               
             </div>
           </div>
 
-<button type="submit" name="submit" class="btn btn-info btn-lg"  >Proceed for Payment</button>
+<button type="submit" name="submit" class="btn btn-info btn-lg"  >Proceed To Payment</button>
 
 
 
